@@ -1,3 +1,4 @@
+name             "capybara-webkit"
 maintainer       "yudozen"
 maintainer_email "yudozen@gmail.com"
 license          "All rights reserved"
