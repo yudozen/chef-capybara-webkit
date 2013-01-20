@@ -1,5 +1,5 @@
 name             "capybara-webkit"
-maintainer       "yudozen2"
+maintainer       "yudozen"
 maintainer_email "yudozen@gmail.com"
 license          "All rights reserved"
 description      "Installs/Configures capybara-webkit"
