@@ -1,5 +1,5 @@
-maintainer       "YOUR_COMPANY_NAME"
-maintainer_email "YOUR_EMAIL"
+maintainer       "yudozen"
+maintainer_email "yudozen@gmail.com"
 license          "All rights reserved"
 description      "Installs/Configures capybara-webkit"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
